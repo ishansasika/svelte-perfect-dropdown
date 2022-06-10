@@ -24,6 +24,7 @@
     "perfect select",
     "svelte-perfect-select"
   ],
-  "author": "Ishan Karunaratne <ishansasika@gmail.com>",
+  "author": "Ishan Karunaratne <ishansasika@gmail.com> (https://ishansasika.mn.co/)",
+  "license": "MIT",
   "homepage": "https://github.com/ishansasika/svelte-perfect-select#readme"
 }
