@@ -34,11 +34,11 @@ let items = [
 
 ### Size Options
 
---- | ---
-SelectSize | Font Size 
-`smaller` | `10px`
-`small` | `12px`
-`medium` | `15px`
-`large` | `18px`
-`larger` | `20px`
+| SelectSize | Font Size | 
+| --- | --- |
+| `smaller` | `10px` | 
+| `small` | `12px` | 
+| `medium` | `15px` | 
+| `large` | `18px` | 
+| `larger` | `20px` | 
 
