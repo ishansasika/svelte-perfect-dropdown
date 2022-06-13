@@ -34,6 +34,7 @@ let items = [
 
 ### Size Options
 
+--- | ---
 SelectSize | Font Size 
 `smaller` | `10px`
 `small` | `12px`
