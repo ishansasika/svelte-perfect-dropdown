@@ -1,9 +1,15 @@
 <script>
   import Select from './lib/Select.svelte'
+
+  let options = [
+    {id:'sl', value:'sri lanka'},
+    {id:'pak', value:'pakistan'},
+    {id:'ind', value:'india'}
+  ]
 </script>
 
 <main>
-  <Select />
+  <Select {options} selectSize="larger"/>
 </main>
 
 <style>

@@ -28,6 +28,16 @@ let items = [
 </script>
 
 <body>
-<Select options={items}/>
+<Select options={items} selectSize="larger"/>
 </body>
 ```
+
+### Size Options
+
+SelectSize | Font Size 
+`smaller` | `10px`
+`small` | `12px`
+`medium` | `15px`
+`large` | `18px`
+`larger` | `20px`
+
